@@ -4,8 +4,7 @@ using namespace std;
 int fibo(int n)
 {
   int ret;
-  // your code goes here
-  
+  ret = fibo(n-1) + fib(n-1);
   return ret;
 }
 
