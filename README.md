@@ -1,7 +1,9 @@
 Fibonacci Test
 ==============
 
-This repository is used to calculate n-th Fibonacci number.
+A parameter n would be provided. The program should calculate and print all the Fibonacci numbers up to n. 
+
+More clearly, the n, does not mean nth term, rather it means up to n.
 
 ### Initial Code Written by:
 
