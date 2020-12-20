@@ -1,7 +1,7 @@
 Fibonacci Test
 ==============
 
-This repository is used to calculate n-th Fibonacci number.
+This line should be changed somehow. No brief line would be allowed.
 
 ### Initial Code Written by:
 
